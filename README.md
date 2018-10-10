@@ -1,0 +1,2 @@
+# MySQL_English_Dictionary_and_Thesaurus
+MySQL English Dictionary and Thesaurus
